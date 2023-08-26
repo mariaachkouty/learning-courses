@@ -9,11 +9,14 @@ https://www.coursera.org/learn/initiation-programmation-cpp
 Introduction à la programmation orientée objet (en C++)
 https://www.coursera.org/learn/programmation-orientee-objet-cpp
 
-ASP.NET Core 6 Web API Fundamentals
-https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-fundamentals
+Building Your First API with ASP.NET Core 2
+https://www.pluralsight.com/courses/asp-dotnet-core-api-building-first?exp=2
 
 Angular: Getting Started
 https://www.pluralsight.com/courses/angular-2-getting-started-update
+
+Functional Programming Principles in Scala
+https://www.coursera.org/learn/scala-functional-programming
 
 Salesforce Trailhead
 https://trailhead.salesforce.com/
