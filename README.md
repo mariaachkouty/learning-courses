@@ -17,7 +17,7 @@ https://www.pluralsight.com/courses/asp-dotnet-core-api-building-first?exp=2
 Angular: Getting Started
 https://www.pluralsight.com/courses/angular-2-getting-started-update
 
-## Functional Programming
+## Functional Programming (FP)
 
 Functional Programming Principles in Scala
 https://www.coursera.org/learn/scala-functional-programming
