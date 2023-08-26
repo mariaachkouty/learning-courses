@@ -107,3 +107,6 @@ Illustrator <br>
 
 Microsoft Office <br>
 
+Jupyter Notebook <br>
+https://jupyter.org/install
+
