@@ -13,7 +13,7 @@ ASP.NET Core 6 Web API Fundamentals
 https://www.pluralsight.com/courses/asp-dot-net-core-6-web-api-fundamentals
 
 Angular: Getting Started
-https://www.pluralsight.com/courses/angular-2-getting-started-update****
+https://www.pluralsight.com/courses/angular-2-getting-started-update
 
 Salesforce Trailhead
 https://trailhead.salesforce.com/
