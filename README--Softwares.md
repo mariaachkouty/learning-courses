@@ -44,6 +44,9 @@ IDLE <br>
 https://www.python.org/downloads/
 
 Node.js
-https://nodejs.org/en/download/current
+https://nodejs.org/en/download/current'
+
+Adobe Acrobat Reader DC Download <br>
+https://get.adobe.com/reader/
 
 
