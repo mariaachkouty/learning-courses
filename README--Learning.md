@@ -64,6 +64,6 @@ https://www.hackerrank.com/dashboard
 
 # BOOKS
 
-Design Patterns: Elements of Reusable Object-Oriented Software
+Design Patterns: Elements of Reusable Object-Oriented Software <br>
 https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
 
