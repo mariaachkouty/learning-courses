@@ -101,4 +101,7 @@ HP Support Assistant <br>
 
 Firefox <br>
 
+Photoshop <br>
+
+Illustrator <br>
 
