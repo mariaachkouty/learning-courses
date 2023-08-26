@@ -24,7 +24,7 @@ https://trailhead.salesforce.com/
 Mongo DB
 https://learn.mongodb.com/
 
-# CODING PLATFORMS#
+# CODING PLATFORMS
 
 LeetCode
 https://leetcode.com/
