@@ -24,3 +24,11 @@ https://trailhead.salesforce.com/
 Mongo DB
 https://learn.mongodb.com/
 
+CODING PLATFORMS
+
+LeetCode
+https://leetcode.com/
+
+HackerRank
+https://www.hackerrank.com/dashboard
+
