@@ -97,6 +97,8 @@ Lenovo vantage <br>
 
 Lenovo Bridge <br>
 
+HP Support Assistant <br>
+
 Firefox <br>
 
 
