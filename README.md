@@ -1,4 +1,4 @@
-# learning-courses
+#COURSES
 
 Responsive Web Design
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
@@ -24,7 +24,7 @@ https://trailhead.salesforce.com/
 Mongo DB
 https://learn.mongodb.com/
 
-CODING PLATFORMS
+#CODING PLATFORMS
 
 LeetCode
 https://leetcode.com/
