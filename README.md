@@ -51,3 +51,8 @@ https://leetcode.com/
 HackerRank <br>
 https://www.hackerrank.com/dashboard
 
+# BOOKS
+
+Design Patterns: Elements of Reusable Object-Oriented Software
+https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
+
