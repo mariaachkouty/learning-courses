@@ -28,6 +28,9 @@ https://visualstudio.microsoft.com/downloads/
 Oracle VM VirtualBox <br>
 https://www.virtualbox.org/wiki/Downloads
 
+VMware Workstation Player <br>
+https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+
 Zoom <br>
 https://zoom.us/download
 
