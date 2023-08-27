@@ -31,6 +31,9 @@ https://www.virtualbox.org/wiki/Downloads
 VMware Workstation Player <br>
 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
+Ubuntu iso <br>
+https://ubuntu.com/download
+
 Zoom <br>
 https://zoom.us/download
 
