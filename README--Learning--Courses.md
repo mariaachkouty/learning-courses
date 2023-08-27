@@ -1,5 +1,8 @@
 # COURSES
 
+Python for Everybody <br>
+https://py4e.com/
+
 Initiation à la programmation (en C++) <br>
 https://www.coursera.org/learn/initiation-programmation-cpp
 
