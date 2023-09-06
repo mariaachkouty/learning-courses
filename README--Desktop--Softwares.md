@@ -116,3 +116,6 @@ Microsoft Office <br>
 Jupyter Notebook <br>
 https://jupyter.org/install
 
+WPS  Office <br>
+https://www.wps.com/download/
+
