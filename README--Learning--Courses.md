@@ -3,6 +3,9 @@
 Python for Everybody <br>
 https://py4e.com/
 
+100 Days of Code: The Complete Python Pro Bootcamp <br>
+https://www.udemy.com/course/100-days-of-code/
+
 Initiation à la programmation (en C++) <br>
 https://www.coursera.org/learn/initiation-programmation-cpp
 
