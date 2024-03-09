@@ -46,8 +46,10 @@ https://www.gimp.org/downloads/
 Visual Paradigm Community Edition <br>
 https://www.visual-paradigm.com/download/community.jsp\
 
-IDLE <br>
+IDLE for Python<br>
 https://www.python.org/downloads/
+
+Thonny
 
 Node.js
 https://nodejs.org/en/download/current'
