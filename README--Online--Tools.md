@@ -9,5 +9,5 @@ https://online.visual-paradigm.com/diagrams/features/flowchart-tool/
 Diffchecker<br>
 https://www.diffchecker.com/
 
-Loreem Ipsum Generator<br>
+Lorem Ipsum Generator<br>
 https://www.lipsum.com/
