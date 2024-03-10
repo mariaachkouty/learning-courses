@@ -1,4 +1,4 @@
-# Extensions
+# Code Editor Extensions
 
 ## VSCode Extensions
 
