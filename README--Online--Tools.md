@@ -5,3 +5,6 @@ http://draw.io/
 
 Visual Paradigm<br>
 https://online.visual-paradigm.com/diagrams/features/flowchart-tool/
+
+Diffchecker<br>
+https://www.diffchecker.com/
