@@ -1,6 +1,8 @@
-# Salesforce Browser Extensions
+#EXTENSIONS
 
-# Web Development Extensions
+## Salesforce Browser Extensions
+
+## Web Development Extensions
 
 ColorZilla
 
