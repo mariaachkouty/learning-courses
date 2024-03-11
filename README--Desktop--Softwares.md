@@ -51,6 +51,9 @@ https://www.python.org/downloads/
 
 Thonny
 
+PyCharm<br/>
+https://www.jetbrains.com/pycharm/download/
+
 Node.js
 https://nodejs.org/en/download/current'
 
