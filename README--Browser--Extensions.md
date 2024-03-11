@@ -4,5 +4,5 @@
 
 ColorZilla
 
-Silktide Toolbar Accessibility Checker for Chrome
+Silktide Toolbar Accessibility Checker for Chrome<br/>
 https://silktide.com/tools/toolbar/
