@@ -14,3 +14,6 @@ https://www.lipsum.com/
 
 Lorem Ipsum for Photos<br/>
 picsum.photos
+
+Silktide Toolbar Accessibility Checker for Chrome<br/>
+https://silktide.com/tools/toolbar/
