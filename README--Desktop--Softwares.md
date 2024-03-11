@@ -54,8 +54,8 @@ Thonny
 PyCharm<br/>
 https://www.jetbrains.com/pycharm/download/
 
-Node.js
-https://nodejs.org/en/download/current'
+Node.js<br/>>
+https://nodejs.org/en/download/current
 
 Adobe Acrobat Reader DC Download <br>
 https://get.adobe.com/reader/
