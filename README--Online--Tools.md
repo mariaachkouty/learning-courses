@@ -11,3 +11,6 @@ https://www.diffchecker.com/
 
 Lorem Ipsum Generator<br>
 https://www.lipsum.com/
+
+Lorem Ipsum for Photos<br/>
+picsum.photos
