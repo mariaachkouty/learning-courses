@@ -15,3 +15,6 @@ https://www.lipsum.com/
 Lorem Ipsum for Photos<br/>
 picsum.photos
 
+Font Awesome Icons<br/>
+https://fontawesome.com/
+
