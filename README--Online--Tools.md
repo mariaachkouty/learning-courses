@@ -18,3 +18,6 @@ picsum.photos
 Font Awesome Icons<br/>
 https://fontawesome.com/
 
+Color Palette Tool<<br/>
+colorhunt.co
+
