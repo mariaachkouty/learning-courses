@@ -124,3 +124,6 @@ https://jupyter.org/install
 WPS  Office <br>
 https://www.wps.com/download/
 
+Muse Hub (Audacity, Musescore,...) <br>
+https://musescore.org/en/download
+
