@@ -127,3 +127,6 @@ https://www.wps.com/download/
 Muse Hub (Audacity, Musescore,...) <br>
 https://musescore.org/en/download
 
+f.lux <br>
+https://justgetflux.com/
+
