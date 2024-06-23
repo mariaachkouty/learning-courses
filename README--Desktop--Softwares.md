@@ -130,3 +130,9 @@ https://musescore.org/en/download
 f.lux <br>
 https://justgetflux.com/
 
+INTELLIJ IDEA <br>
+https://www.jetbrains.com/idea/download/?section=windows
+
+MobileSheets Companion <br>
+https://www.zubersoft.com/mobilesheets/companion/
+
