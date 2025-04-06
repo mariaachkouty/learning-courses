@@ -151,4 +151,7 @@ https://www.nvidia.com/en-me/software/nvidia-app/
 Steam <br>
 https://store.steampowered.com/
 
+EaseUS <br>
+https://www.easeus.com/ppc/data-recovery-wizard-max.html
+
 
