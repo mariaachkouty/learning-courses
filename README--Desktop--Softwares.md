@@ -136,3 +136,19 @@ https://www.jetbrains.com/idea/download/?section=windows
 MobileSheets Companion <br>
 https://www.zubersoft.com/mobilesheets/companion/
 
+Seagate Tools <br>
+https://www.seagate.com/support/downloads/seatools/
+
+Epic Games <br>
+https://store.epicgames.com/en-US/
+
+Ubisoft Connect <br>
+https://www.ubisoft.com/en-gb/ubisoft-connect/download
+
+Nvidia App <br>
+https://www.nvidia.com/en-me/software/nvidia-app/
+
+Steam <br>
+https://store.steampowered.com/
+
+
